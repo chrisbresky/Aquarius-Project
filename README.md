@@ -7,7 +7,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
-* [How can you get involved?](#what-do-we-need)
+* [What do we need?](#what-do-we-need)
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
 * [Understand the big words](#glossary)
