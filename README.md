@@ -29,9 +29,9 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
        * Opportunities to talk with scientists
        * Access to involved museums
 
-#### All while integrating flawlessly with the national standards set by Next Generation Science Standards (NGSS).
-
 *Science stories you can binge!* 
+
+#### All while integrating flawlessly with the national standards set by Next Generation Science Standards (NGSS).
 
 
 ### The Why  
