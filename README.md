@@ -66,7 +66,7 @@ We'd love your feedback along the way, and of course, we'd love you to contribut
 
 ### Contact Us
 
-If you want to report a problem or suggest an enhancement we'd love for you to open an issue at this github repository. But you can also contact [Chris][link_ChrisBresky] by email (cbresky AT adlerplanetarium DOT org) or on [twitter](https://twitter.com/MrChrisBresky)
+If you want to report a problem or suggest an enhancement we'd love for you to open an issue at this github repository. But you can also contact Chris by email (cbresky AT adlerplanetarium DOT org) or on [twitter](https://twitter.com/MrChrisBresky)
 
 ### Find Out More
 
