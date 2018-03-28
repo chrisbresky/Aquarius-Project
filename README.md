@@ -16,11 +16,12 @@ This document (the README file) is a hub to give you some information about the 
 
 ## What are we doing?
 
-###The What  
+### The What  
 
 * When a flaming rock from outer space crashed into Lake Michigan on February 6th, it created waves…literally! This inspired us at the Adler Planetarium to ask how we could harness this event and use it to create accessible and engaging educational content. (Click here to see what it’s inspired so far!)
 * Enter the Aquarius Project inspired Open Science Engagement Platform!
 * We are using ongoing science to create stories to produce interactive hands-on lesson plans in STEM.  We are using real science happening today to engage students not only with its relevance but with their ability to contribute, and packaging all that into ready to deliver lesson plans for teachers to use.
+
 ####These free, open-source lesson packages offer:
        * Paired video content with in-class projects
        * Suggested assignments, guided learning strategies 
@@ -34,7 +35,7 @@ All while integrating flawlessly with the national standards set by Next Generat
 *Science stories you can binge!* 
 
 
-###The Why  
+### The Why  
 
 Often students can view scientific exploration as something left to the professionals; premade science experiments in the classroom can often feel disconnected to the story of ongoing explorations. Using a strong, engaging narrative, coupled with hands-on applicable science, young explorers can more easily find themselves the main characters in a story of discovery they are helping to write.
 Our mission is to address 3 major hurdles often faced in STEM education: 1) Science is inaccessible, 2) Science seems unrelatable, and 3) It can be difficult and time consuming to develop new and relevant lesson plans that are both engaging and meet NGSS guidelines.
