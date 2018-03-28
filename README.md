@@ -1,4 +1,4 @@
-# The Aquarius Project: Open Science Communication
+# The Aquarius Project: Open Science Engagement
 ***Inspire students in the classroom to engage in science through interactive stories of ongoing exploration***
 
 Thank you for visiting the Aquarius Project: Open Science Engagement repository.
