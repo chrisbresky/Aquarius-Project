@@ -22,12 +22,12 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 * We are using ongoing science to create stories to produce interactive hands-on lesson plans in STEM.  We are using real science happening today to engage students not only with its relevance but with their ability to contribute, and packaging all that into ready to deliver lesson plans for teachers to use.
 
 #### These free, open-source lesson packages offer:
-       * Paired video content with in-class projects
-       * Suggested assignments, guided learning strategies 
-       * Interactive/hands-on samples 
-       * Citizen Science Engagement portals for participating in the real science
-       * Opportunities to talk with scientists
-       * Access to involved museums
+   * Paired video content with in-class projects
+   * Suggested assignments, guided learning strategies 
+   * Interactive/hands-on samples 
+   * Citizen Science Engagement portals for participating in the real science
+   * Opportunities to talk with scientists
+   * Access to involved museums
 
 *Science stories you can binge!* 
 
