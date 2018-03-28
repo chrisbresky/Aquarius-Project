@@ -11,7 +11,7 @@ This document (the README file) is a hub to give you some information about the 
 * [How can you get involved?](#get-involved)
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
-* [Understand the jargon](#glossary)
+* [Understand the big words](#glossary)
 
 
 ## What are we doing?
@@ -43,26 +43,36 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 2)    Science seems unrelatable. Unless you’re already planning on being a scientist, who cares about DNA, thermodynamics, or the water cycle? How does plate tectonics apply to me, or more accurately, “When am I ever going to need to know this?” Honestly, these are tough questions to answer. There is no guarantee that you’ll ever need to know that chloroplasts are the site of photosynthesis. So, we take a different approach to making the science relatable, we want to make it cool and all about the student. Our paired videos and supplemental external links (scientist bios, Instagram, websites, YouTube videos, etc) are aimed at showing a diversity of stereotype-breaking scientists across all ages, backgrounds, specialties, and personalities. We hope to breakdown the  barrier of unrelatability by showing a diverse community of scientists who represent the students while also trying our best to show how scientific topics actually DO relate to everyday life (chloroplasts produce oxygen for you to live but they are also found in symbiotic mosses and cyanobacterium demonstrating evolution and tying in to how we became us. Imagine if we could photosynthesize and plants had to eat animals to survive [-> Venus Flytrap]?!)
 3)    Developing NGSS (hyperlink) -based lesson plans. The Next Generation Science Standards were established in 2013. Since then 19 states and the District of Columbia (D.C.) have adopted the standards with 21 states interested in following. This transition 
 
-Who are we?
-Hey I’m Chris! I’m a full-time informal educator at The Adler Planetarium and trained visual and performing artist.  
-Hi, I’m Kennen! I'm a full-time PhD fellow at Northwestern University and part-time social media science communicator. Growing up I was often bored in class and found the lessons unrelatable and uninspiring. As I continued on my academic journey I was inundated with mind numbing lecture/worksheet based curriculum that just wasn't cutting it. Fed up with these non-engaging pedagogies, I decided it was time to do something and make a change. This project is designed to provide teachers with engaging NGSS aligned lesson plans that offer interactive multi-media content paired with museums, institutions, and campuses across the nation/globe.
-What do we need?
+### Who are we?
+
+*Hey I’m Chris!* I’m a full-time informal educator at The Adler Planetarium and trained visual and performing artist.  
+
+*Hi, I’m Kennen!* I'm a full-time PhD fellow at Northwestern University and part-time social media science communicator. Growing up I was often bored in class and found the lessons unrelatable and uninspiring. As I continued on my academic journey I was inundated with mind numbing lecture/worksheet based curriculum that just wasn't cutting it. Fed up with these non-engaging pedagogies, I decided it was time to do something and make a change. This project is designed to provide teachers with engaging NGSS aligned lesson plans that offer interactive multi-media content paired with museums, institutions, and campuses across the nation/globe.
+
+### What do we need?
 You! In whatever way you can help.
 We'd love your feedback along the way, and of course, we'd love you to contribute with the following: 
-Translators for existing lesson content
-Volunteer resources for curriculum packages (access to specimens, 3-D printing, etc)
-Collaborative institutions for content expertise and demonstrations of careers and inside looks at the STEMs (also free or discounted passes for classrooms to visit museums or even institutes would be awesome)
-Filming experts + production experts
-Website design for a fully interactive hub (future app design) (maybe some app development in the future)
-Input from educators on what they would like to see, what topics they would like covered
-Contact Us
-If you want to report a problem or suggest an enhancement we'd love for you to open an issue at this github repository. But you can also contact Chris by email 
-Find Out More
+
+* Translators for existing lesson content
+* Volunteer resources for curriculum packages (access to specimens, 3-D printing, etc)
+* Collaborative institutions for content expertise and demonstrations of careers and inside looks at the STEMs (also free or discounted passes for classrooms to visit museums or even institutes would be awesome)
+* Filming experts + production experts
+* Website design for a fully interactive hub (future app design) (maybe some app development in the future)
+* Input from educators on what they would like to see, what topics they would like covered
+
+### Contact Us
+
+If you want to report a problem or suggest an enhancement we'd love for you to open an issue at this github repository. But you can also contact [Chris][link_ChrisBresky] by email (cbresky AT adlerplanetarium DOT org) or on [twitter](https://twitter.com/MrChrisBresky)
+
+### Find Out More
 (future sample lesson plan)
-Thank You
+
+### Thank You
 Thank you so much for visiting our project and we do hope that you'll join us on this journey to support open engaging STEM education for all.
-Glossary
-NGSS: Next Generation Science Standards are K–12 science content standards set for schools to establish expectations for what students should know and be able to do. 
-STEM: Science, Technology, Engineering, and Mathematics
+
+### Glossary
+
+**NGSS:** Next Generation Science Standards are K–12 science content standards set for schools to establish expectations for what students should know and be able to do. 
+**STEM:** Science, Technology, Engineering, and Mathematics
 
 
