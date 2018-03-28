@@ -7,8 +7,7 @@ This document (the README file) is a hub to give you some information about the 
 
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
-* [What do we need?](#what-do-we-need)
-* [How can you get involved?](#get-involved)
+* [How can you get involved?](#what-do-we-need)
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
 * [Understand the big words](#glossary)
