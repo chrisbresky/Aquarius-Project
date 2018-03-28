@@ -1,12 +1,9 @@
 # The Aquarius Project: Open Science Communication
 ***Inspire students in the classroom to engage in science through interactive stories of ongoing exploration***
 
-
-
-
 Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
-This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
+*This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.*
 
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
