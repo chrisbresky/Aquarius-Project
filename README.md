@@ -8,7 +8,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 <a href="https://bit.ly/aquariusproject">
   <img
     src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png"
-    align="center"
+    align="right"
     width=140
   </img>
 </a>
