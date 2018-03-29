@@ -1,13 +1,12 @@
 # The Aquarius Project: Open Science Engagement
-***Inspiring students in the classroom to engage in science through interactive stories of ongoing exploration***
-
+***Inspiring students to engage in science through interactive stories of ongoing exploration***
 
 <a href="https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project">
   <img
     src="https://https://www.adlerplanetarium.org/wp-content/uploads/aquarius-hero-01.png"
-    align="right"
-    width=140
-  </img>
+    align="center"
+  img width="1120" 
+       height="416" 
 </a>
 
 Thank you for visiting the Aquarius Project: Open Science Engagement repository.
