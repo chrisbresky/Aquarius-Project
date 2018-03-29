@@ -3,7 +3,7 @@
 
 <a href="https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project">
   <img
-    src="https://https://www.adlerplanetarium.org/wp-content/uploads/aquarius-hero-01.png"
+    src="https://www.adlerplanetarium.org/wp-content/uploads/aquarius-hero-01.png"
     align="center"
   img width="900" 
        height="334" 
