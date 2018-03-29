@@ -92,10 +92,12 @@ Thank you so much for visiting our project and we do hope that you'll join us on
   <img
     src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png"
     align="center"
-    width=249
-    height=249
+    width="249"
+    height="249"
   </img>
 </a>
+
+
 
 ### Glossary
 
