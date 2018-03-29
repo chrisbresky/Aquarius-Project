@@ -4,14 +4,6 @@
 Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 *This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.*
-
-* [What are we doing? (And why?)](#what-are-we-doing)
-* [Who are we?](#who-are-we)
-* [What do we need?](#what-do-we-need)
-* [Get in touch](#contact-us)
-* [Find out more](#find-out-more)
-* [Understand the big words](#glossary)
-
 <a href="https://www.mozillascience.org/about">
   <img
     src="http://mozillascience.github.io/working-open-workshop/assets/images/science-fox.svg"
@@ -19,6 +11,14 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
     width=140
   </img>
 </a>
+* [What are we doing? (And why?)](#what-are-we-doing)
+* [Who are we?](#who-are-we)
+* [What do we need?](#what-do-we-need)
+* [Get in touch](#contact-us)
+* [Find out more](#find-out-more)
+* [Understand the big words](#glossary)
+
+
 
 ## What are we doing?
 
