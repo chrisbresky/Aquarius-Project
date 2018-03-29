@@ -5,9 +5,9 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 *This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.*
 
-<a href="https://www.mozillascience.org/about">
+<a href="https://bit.ly/aquariusproject">
   <img
-    src="http://mozillascience.github.io/working-open-workshop/assets/images/science-fox.svg"
+    src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png"
     align="right"
     width=140
   </img>
