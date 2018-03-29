@@ -5,8 +5,8 @@
   <img
     src="https://https://www.adlerplanetarium.org/wp-content/uploads/aquarius-hero-01.png"
     align="center"
-  img width="1120" 
-       height="416" 
+  img width="900" 
+       height="334" 
 </a>
 
 Thank you for visiting the Aquarius Project: Open Science Engagement repository.
