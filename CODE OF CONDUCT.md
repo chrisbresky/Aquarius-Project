@@ -1,7 +1,7 @@
 Code of Conduct
-Building in the open can be a powerful force – uniting people from varied geographical, cultural and economic backgrounds towards a common good. We at Open the North value each and every contributor to this project, for its completion hinges on the skills that each contributor brings forth.
+Building in the open can be a powerful force – uniting people from varied geographical, cultural and economic backgrounds towards a common good. We at The Aquarius Project: Open Science Engagement value each and every contributor to this project, for its completion hinges on the skills that each contributor brings forth.
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in The Aquarius Project: Open Science Engagement a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. This code of conduct outlines our expectations for participants within the Open the North community, as well as steps to reporting unacceptable behavior.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in The Aquarius Project: Open Science Engagement a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. This code of conduct outlines our expectations for participants within The Aquarius Project: Open Science Engagement community, as well as steps to reporting unacceptable behavior.
 
 Expectations
 Be friendly and patient.
