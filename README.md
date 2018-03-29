@@ -47,7 +47,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 
 ### Who are we?
 
-*Hey I’m Chris!* I’m a member of the [2018 Mozilla Open Leaders Fellowship] (https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d), a full-time program manager at [The Adler Planetarium](https://www.adlerplanetarium.org) in Chicago, Illinois and a trained visual artist with an MFA in performance from the Old Globe Theare.  My love of science and the arts drives me to highlight the importance of their intersection.  As a     
+*Hey I’m Chris!* I’m a member of the [2018 Mozilla Open Leaders Fellowship](https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d), a full-time program manager at [The Adler Planetarium](https://www.adlerplanetarium.org) in Chicago, Illinois and a trained visual artist with an MFA in performance from the Old Globe Theare.  My love of science and the arts drives me to highlight the importance of their intersection.  As a     
 
 *Hi, I’m Kennen!* I'm a full-time PhD fellow at Northwestern University and part-time social media science communicator. Growing up I was often bored in class and found the lessons unrelatable and uninspiring. As I continued on my academic journey I was inundated with mind numbing lecture/worksheet based curriculum that just wasn't cutting it. Fed up with these non-engaging pedagogies, I decided it was time to do something and make a change. This project is designed to provide teachers with engaging NGSS aligned lesson plans that offer interactive multi-media content paired with museums, institutions, and campuses across the nation/globe.
 
