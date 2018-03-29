@@ -9,6 +9,7 @@
        height="334" 
 </a>
 
+
 Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 *This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.*
