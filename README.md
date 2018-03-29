@@ -88,6 +88,10 @@ If you want to report a problem or suggest an enhancement we'd love for you to o
 
 Thank you so much for visiting our project and we do hope that you'll join us on this journey to support open engaging STEM education for all.
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 <a href="https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project">
   <img
     src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png"
