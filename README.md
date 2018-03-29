@@ -12,6 +12,13 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 * [Find out more](#find-out-more)
 * [Understand the big words](#glossary)
 
+<a href="https://www.mozillascience.org/about">
+  <img
+    src="http://mozillascience.github.io/working-open-workshop/assets/images/science-fox.svg"
+    align="right"
+    width=140
+  </img>
+</a>
 
 ## What are we doing?
 
