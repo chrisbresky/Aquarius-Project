@@ -15,14 +15,6 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 *This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.*
 
-<a href="https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project">
-  <img
-    src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png"
-    align="right"
-    width=140
-  </img>
-</a>
-
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
 * [What do we need?](#what-do-we-need)
@@ -95,6 +87,15 @@ If you want to report a problem or suggest an enhancement we'd love for you to o
 ### Thank You
 
 Thank you so much for visiting our project and we do hope that you'll join us on this journey to support open engaging STEM education for all.
+
+<a href="https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project">
+  <img
+    src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png"
+    align="center"
+    width=249
+    height=249
+  </img>
+</a>
 
 ### Glossary
 
