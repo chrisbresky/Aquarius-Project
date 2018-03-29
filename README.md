@@ -5,7 +5,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 *This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.*
 
-<a href="https://bit.ly/aquariusproject">
+<a href="https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project">
   <img
     src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png"
     align="right"
