@@ -87,7 +87,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
   </img>
 </a>
 
-*Hi, I’m Kennen!* I'm a full-time PhD fellow at Northwestern University and part-time [social media science communicator](https://www.youtube.com/channel/UC_V-JuHBZ1ZtTaJliRjN9pw). Growing up I was often bored in class and found the lessons unrelatable and uninspiring. As I continued on my academic journey I was inundated with mind numbing lecture/worksheet based curriculum that just wasn't cutting it. Fed up with these non-engaging pedagogies, I decided it was time to do something and make a change. This project is designed to provide teachers with engaging NGSS aligned lesson plans that offer interactive multi-media content paired with museums, institutions, and campuses across the nation/globe.
+*Hi, I’m Kennen!* I'm a full-time PhD fellow at Northwestern University and part-time [social media science communicator](https://www.youtube.com/channel/UC_V-JuHBZ1ZtTaJliRjN9pw). Growing up I was often bored in class and found the lessons unrelatable and uninspiring. As I continued on my academic journey I was inundated with mind numbing lecture/worksheet based curriculum that just wasn't cutting it. Fed up with these non-engaging pedagogies, I decided it was time to do something and make a change. 
 
 ### What do we need?
 
