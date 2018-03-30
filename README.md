@@ -76,7 +76,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
   </img>
 </a>
 
-*Hey I’m Chris!* I’m a member of the [2018 Mozilla Open Leaders Fellowship](https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d), a full-time program manager at [The Adler Planetarium](https://www.adlerplanetarium.org), a  [visual artist](http://www.the12daysofagreatwhitechristmas.com),  and [actor](http://www.imdb.com/name/nm1591332/) with an MFA in performance from the [Old Globe Theare](https://www.graduateacting.com/).  My love of science and the arts drives me to highlight the importance of their intersection.  Fostering creative engagement with current science exploration helps to increase access with content that can feel unapproachable, and careers for many that seem unimaginable.        
+*Hey I’m Chris!* I’m a member of the [2018 Mozilla Open Leaders Fellowship](https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d), a full-time program manager at [The Adler Planetarium](https://www.adlerplanetarium.org), a  [visual artist](http://www.the12daysofagreatwhitechristmas.com),  with my MFA in [acting](http://www.imdb.com/name/nm1591332/).  My love of science and the arts drives me to highlight the importance of their intersection.  Fostering creative engagement with current science exploration helps to increase access with content that can feel unapproachable, and careers for many that seem unimaginable.        
 
 <a href="https://twitter.com/kennenhutchison?lang=en">
   <img
@@ -87,7 +87,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
   </img>
 </a>
 
-*Hi, I’m Kennen!* I'm a full-time PhD fellow at Northwestern University and part-time social media science communicator. Growing up I was often bored in class and found the lessons unrelatable and uninspiring. As I continued on my academic journey I was inundated with mind numbing lecture/worksheet based curriculum that just wasn't cutting it. Fed up with these non-engaging pedagogies, I decided it was time to do something and make a change. This project is designed to provide teachers with engaging NGSS aligned lesson plans that offer interactive multi-media content paired with museums, institutions, and campuses across the nation/globe.
+*Hi, I’m Kennen!* I'm a full-time PhD fellow at Northwestern University and part-time [social media science communicator](https://www.youtube.com/channel/UC_V-JuHBZ1ZtTaJliRjN9pw). Growing up I was often bored in class and found the lessons unrelatable and uninspiring. As I continued on my academic journey I was inundated with mind numbing lecture/worksheet based curriculum that just wasn't cutting it. Fed up with these non-engaging pedagogies, I decided it was time to do something and make a change. This project is designed to provide teachers with engaging NGSS aligned lesson plans that offer interactive multi-media content paired with museums, institutions, and campuses across the nation/globe.
 
 ### What do we need?
 
@@ -95,6 +95,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 
 We'd love your feedback along the way, and of course, we'd love you to contribute with the following: 
 
+* Scientist of diverse backgrounds to bring their knowledge - or be open to communicate with participating students
 * Translators for existing lesson content 
 * Transcribers for video content to increase accessibility
 * Volunteer resources for curriculum packages (access to specimens, 3-D printing, etc)
