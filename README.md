@@ -71,8 +71,8 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
   <img
     src="https://pbs.twimg.com/profile_images/926779340909453313/3F9x5F4I_400x400.jpg"
     align="left"
-    width=150
-       height=150
+    width=125
+       height=125
   </img>
 </a>
 
