@@ -28,9 +28,9 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 ### The What  
 
-* When a flaming rock from outer space crashed into Lake Michigan on February 6th, it created waves…literally! This inspired us at the Adler Planetarium to ask how we could harness this event and use it to create accessible and engaging educational content. [(Click here to see what it’s inspired so far!)](http:://bit.ly/aquariusproject)
-* Enter the Aquarius Project inspired Open Science Engagement Platform!
-* We are using ongoing science to create stories to produce interactive hands-on lesson plans in STEM.  We are using real science happening today to engage students not only with its relevance but with their ability to contribute, and packaging all that into ready to deliver lesson plans for teachers to use.
+* **When a flaming rock from outer space crashed into Lake Michigan on February 6th, it created waves…literally!** This inspired us at the Adler Planetarium to ask how we could harness this event and use it to create accessible and engaging educational content. [(Click here to see what it’s inspired so far!)](http:://bit.ly/aquariusproject)
+* **Enter the Aquarius Project inspired Open Science Engagement Platform!**
+* **We are using ongoing science stories to produce interactive hands-on lesson plans in STEM.**  We are using real science happening today to engage students not only with its relevance but with their ability to contribute, and packaging all that into ready to deliver lesson plans for teachers to use.
 
 #### These free, open-source lesson packages offer:
    * Paired video content with in-class projects
