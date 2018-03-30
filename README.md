@@ -88,17 +88,14 @@ If you want to report a problem or suggest an enhancement we'd love for you to o
 
 Thank you so much for visiting our project and we do hope that you'll join us on this journey to support open engaging STEM education for all.
 
-<a align="center">
-  <img width="249" height="249" src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png">
-</a>
-
-
-
 
 ### Glossary
 
 **NGSS:** Next Generation Science Standards are K–12 science content standards set for schools to establish expectations for what students should know and be able to do. 
 
-**STEM:** Science, Technology, Engineering, and Mathematics
+**STEM:** Science, Technology, Engineering, and Mathematics <a align="right">
+  <img width="249" height="249" src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Circle-249x249.png">
+</a>
+
 
 
