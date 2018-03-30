@@ -42,6 +42,15 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 *Science stories you can binge!* 
 
+<a href="https://bit.ly/aquariusproject">
+  <img
+    src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Teens-Test-ROV-Sled-550x267.jpg"
+    align="right"
+    width=550
+    height=267
+  </img>
+</a>
+
 #### All while integrating flawlessly with the national standards set by Next Generation Science Standards (NGSS).
 
 
