@@ -51,7 +51,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
   </img>
 </a>
 
-#### All while integrating flawlessly with the national standards set by Next Generation Science Standards (NGSS).
+#### All while integrating flawlessly with the national standards set by Next Generation Science Standards [NGSS(https://www.nextgenscience.org/get-to-know).
 
 
 ### The Why  
