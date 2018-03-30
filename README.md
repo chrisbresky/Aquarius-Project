@@ -78,8 +78,6 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 
 *Hey I’m Chris!* I’m a member of the [2018 Mozilla Open Leaders Fellowship](https://medium.com/read-write-participate/announcing-mozilla-open-leaders-round-5-fc16be27336d), a full-time program manager at [The Adler Planetarium](https://www.adlerplanetarium.org), a  [visual artist](http://www.the12daysofagreatwhitechristmas.com),  and [actor](http://www.imdb.com/name/nm1591332/) with an MFA in performance from the [Old Globe Theare](https://www.graduateacting.com/).  My love of science and the arts drives me to highlight the importance of their intersection.  Fostering creative engagement with current science exploration helps to increase access with content that can feel unapproachable, and careers for many that seem unimaginable.        
 
-https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAtEAAAAJGMwNjVlNjAxLWMwNmItNDZlNi04MGY4LWY5ODk4NGQwYjllYw.jpg
-
 <a href="https://twitter.com/kennenhutchison?lang=en">
   <img
     src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAtEAAAAJGMwNjVlNjAxLWMwNmItNDZlNi04MGY4LWY5ODk4NGQwYjllYw.jpg"
