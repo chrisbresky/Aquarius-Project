@@ -34,9 +34,9 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 #### These free, open-source lesson packages offer:
    * Paired video content with in-class projects
-   * Suggested assignments, guided learning strategies 
+   * [Suggested assignments, guided learning strategies](https://www.discoverdesign.org/challenges/youth-authored-design-magnetic-underwater-meteorite-sled) 
    * Interactive/hands-on samples 
-   * Citizen Science Engagement portals for participating in the real science
+   * [Citizen Science Engagement portals for participating in the real science](https://zooniverse.org)
    * Opportunities to talk with scientists
    * Access to involved museums
 
