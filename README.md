@@ -51,7 +51,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
   </img>
 </a>
 
-#### All while integrating flawlessly with the national standards set by Next Generation Science Standards [NGSS](https://www.nextgenscience.org/get-to-know).
+#### All while integrating with the national standards set by Next Generation Science Standards [NGSS](https://www.nextgenscience.org/get-to-know).
 
 
 ### The Why  
@@ -93,8 +93,8 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 
 **You!** In whatever way you can help.
 
-We'd love your feedback along the way, and of course, we'd love you to contribute with the following: 
-
+We'd love you to contribute with the following: 
+ 1.**Be Inspired.** Ask a question that you'd like a scientist/educator to answer for you related to the project. (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) Post your question here!
 * Scientist of diverse backgrounds to bring their knowledge - or be open to communicate with participating students
 * Translators for existing lesson content 
 * Transcribers for video content to increase accessibility
