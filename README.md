@@ -94,7 +94,10 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 **You!** In whatever way you can help.
 
 We'd love you to contribute with the following: 
+
  1.**Be Inspired.** Ask a question that you'd like a scientist/educator to answer for you related to the project. (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) Post your question here!
+ 
+ 2. 
 * Scientist of diverse backgrounds to bring their knowledge - or be open to communicate with participating students
 * Translators for existing lesson content 
 * Transcribers for video content to increase accessibility
