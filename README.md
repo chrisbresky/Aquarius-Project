@@ -95,16 +95,18 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 
 We'd love you to contribute with the following: 
 
- 1. **Be Inspired.** [Learn about the meteor fall that sparked this project](https://www.youtube.com/watch?v=ey5PA_Sn0n4). Ask a question that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) We'll use these to help design and direct new lesson content. Post your questions here!
+
+ 1. **Be Curious.** [Learn about the meteor fall that sparked this project](https://www.youtube.com/watch?v=ey5PA_Sn0n4). Ask a question that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) We'll use these to help design and direct new lesson content. [Post your questions here!](https://github.com/chrisbresky/Aquarius-Project/issues/2) 
  
- 2. 
-* Scientist of diverse backgrounds to bring their knowledge - or be open to communicate with participating students
-* Translators for existing lesson content 
-* Transcribers for video content to increase accessibility
+ 2. **Be a Translator.** Help us translate the text from one of our digital lessons into another language. [Contribute here!](https://github.com/chrisbresky/Aquarius-Project/issues/1)
+ 
+ 3. **Be a Resource Contributor.** We invite scientists (and citizen scientists) of diverse backgrounds to contribute resources (online links, twitter/email for direct communication) that could help answer questions from #2 and help be a resource for future students/educators. [Post them here!](https://github.com/chrisbresky/Aquarius-Project/issues/3)
+ 
+ 4. **Be a Storyteller.** If you are a science communicator, educator, scientist, or citizen scientist with a camera, record yourself answering a question from [Issue 2]((https://github.com/chrisbresky/Aquarius-Project/issues/2) ). Record from your phone or laptop (clear sound but doesn't need to be fancy) and [post your video link here](https://github.com/chrisbresky/Aquarius-Project/issues/4). 
+ 
 * Volunteer resources for curriculum packages (access to specimens, 3-D printing, etc)
 * Collaborative institutions for content expertise and demonstrations of careers and inside looks at the STEMs (also free or discounted passes for classrooms to visit museums or even institutes would be awesome)
-* Filming experts + production experts
-* Website design for a fully interactive hub (future app design) (maybe some app development in the future)
+
 * Input from educators on what they would like to see, what topics they would like covered
 
 ### Contact Us
