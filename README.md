@@ -42,8 +42,6 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
    * Opportunities to talk with scientists
    * Access to involved museums
 
-*Science stories you can binge!* 
-
 <a href="https://bit.ly/aquariusproject">
   <img
     src="https://www.adlerplanetarium.org/wp-content/uploads/The-Aquarius-Project-Teens-Test-ROV-Sled-550x267.jpg"
@@ -53,7 +51,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
   </img>
 </a>
 
-#### All while integrating with the national standards set by Next Generation Science Standards [NGSS](https://www.nextgenscience.org/get-to-know).
+#### Integrated with the national standards set by Next Generation Science Standards [NGSS](https://www.nextgenscience.org/get-to-know).
 
 
 ## The Why  
@@ -68,12 +66,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 
 3)    **Developing [NGSS](https://www.nextgenscience.org/get-to-know) -based lesson plans.** The Next Generation Science Standards were established in 2013. Since then 19 states and the District of Columbia (D.C.) have adopted the standards with 21 states interested in following. This transition 
 
-## How can you help?
-
-**You!** 
-
-We'd love you to contribute with the following: 
-
+## How you can help?
 
  1. **Be Curious.** [Learn about the meteor fall that sparked this project](https://www.youtube.com/watch?v=ey5PA_Sn0n4). Ask a question that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) We'll use these to help design and direct new lesson content. [Post your questions here!](https://github.com/chrisbresky/Aquarius-Project/issues/2) 
  
