@@ -72,6 +72,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
  [Learn about the meteor fall that sparked this project](https://www.youtube.com/watch?v=ey5PA_Sn0n4). 
  
    * Ask a question & post to Twitter with **#AquariusAMA** that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) 
+     * **Science Professionals will be monitoring #AquariusAMA from 1-2pm CST (6-7pm UTC) on May 9th & 10th during the Global Sprint
    * Post your question and the response you receive! We'll use these to help design and direct new lesson content. [Post your questions and answers here!](https://github.com/chrisbresky/Aquarius-Project/issues/2) 
  
  ### 2. Be a Translator. 
