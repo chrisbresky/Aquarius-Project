@@ -69,7 +69,10 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 ## How can you help?
 
  ### 1. Be Curious. 
- [Learn about the meteor fall that sparked this project](https://www.youtube.com/watch?v=ey5PA_Sn0n4). Ask a question that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) We'll use these to help design and direct new lesson content. [Post your questions here!](https://github.com/chrisbresky/Aquarius-Project/issues/2) 
+ [Learn about the meteor fall that sparked this project](https://www.youtube.com/watch?v=ey5PA_Sn0n4). 
+ 
+   * Ask a question & post to Twitter with **#AquariusAMA** that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) 
+   * Post your question and the response you receive! We'll use these to help design and direct new lesson content. [Post your questions and answers here!](https://github.com/chrisbresky/Aquarius-Project/issues/2) 
  
  ### 2. Be a Translator. 
  Help us translate the text from one of our digital lessons into another language. [Contribute here!](https://github.com/chrisbresky/Aquarius-Project/issues/1)
