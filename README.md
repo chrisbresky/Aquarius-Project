@@ -83,13 +83,6 @@ We invite scientists (and citizen scientists) of diverse backgrounds to contribu
  
  ### 4. Be a Storyteller. 
 If you are a science communicator, educator, scientist, or citizen scientist with a camera, record yourself answering a question from [Issue 2]((https://github.com/chrisbresky/Aquarius-Project/issues/2) ). Record from your phone or laptop (clear sound but doesn't need to be fancy) and [post your video link here](https://github.com/chrisbresky/Aquarius-Project/issues/4). 
- 
-* Volunteer resources for curriculum packages (access to specimens, 3-D printing, etc)
-* Collaborative institutions for content expertise and demonstrations of careers and inside looks at the STEMs (also free or discounted passes for classrooms to visit museums or even institutes would be awesome)
-
-* Input from educators on what they would like to see, what topics they would like covered
-
-### Who are we?
 
 <a href="https://twitter.com/mrchrisbresky">
   <img
