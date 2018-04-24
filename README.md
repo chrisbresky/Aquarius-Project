@@ -19,7 +19,6 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 * [How can you help?](#how-can-you-help)
 * [Who are we?](#who-are-we)
 * [Get in touch](#contact-us)
-* [Find out more](#find-out-more)
 * [Understand the big words](#glossary)
 
 
@@ -110,9 +109,6 @@ If you are a science communicator, educator, scientist, or citizen scientist wit
 
 If you want to report a problem or suggest an enhancement we'd love for you to open an issue at this github repository. But you can also contact Chris by email (cbresky AT adlerplanetarium.org) or on [twitter](https://twitter.com/MrChrisBresky)
 
-### Find Out More
-
-(future sample lesson plan)
 
 ### Thank You
 
