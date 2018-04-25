@@ -70,7 +70,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
  ### 1. Be Curious. 
  [Learn about the meteor fall that sparked this project](https://openexplorer.nationalgeographic.com/expedition/rovmeteoritehunt). 
  
-   * Ask a question & post to Twitter with **#AquariusAMA** that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (**Example:** *"How hot was the meteorite (space rock) when it hit the water?"*) 
+   * Ask a question & post to Twitter with **#AquariusAMA** that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (**Example:** *"How hot was the meteorite (space rock) when it hit the water?" #AquariusAMA*) 
      * **Science Professionals will be monitoring #AquariusAMA from 1-2pm CST (6-7pm UTC) on May 10th & 11th during the Global Sprint**
    * Post your question and the response you receive! We'll use these to help design and direct new lesson content. [Post your questions and answers here!](https://github.com/chrisbresky/Aquarius-Project/issues/2) 
  
