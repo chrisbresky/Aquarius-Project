@@ -31,15 +31,15 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 ### The Aquarius Project: Open Science Engagement Platform
 
-* **We are using ongoing science stories to produce interactive hands-on lesson plans in STEM.**  We are using real science happening today to engage students not only with its relevance but with their ability to contribute, and packaging all that into ready to deliver lesson plans for teachers to use.
+* **We are using ongoing science stories to produce interactive hands-on lesson plans in STEM.**  We are using real science happening today to engage students not only with its relevance but with their ability to contribute, and packaging that into premade lesson plans for teachers to use.
 
 #### These free, open-source lesson packages offer:
    * Paired video content with in-class projects
    * [Suggested assignments, guided learning strategies](https://www.discoverdesign.org/challenges/youth-authored-design-magnetic-underwater-meteorite-sled) 
    * [Interactive/hands-on samples](https://www.youtube.com/watch?v=IPvlK-0ybiw)
    * [Citizen Science Engagement portals for participating in the real science](https://zooniverse.org)
-   * Opportunities to talk with scientists
-   * Access to involved museums
+   * Opportunities to engage with science professionals
+
 
 <a href="https://bit.ly/aquariusproject">
   <img
