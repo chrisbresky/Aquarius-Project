@@ -83,6 +83,8 @@ We invite scientists (and citizen scientists) of diverse backgrounds to contribu
  ### 4. Be a Storyteller. 
 If you are a science communicator, educator, scientist, or citizen scientist with a camera, record yourself answering a question from [Issue 2]((https://github.com/chrisbresky/Aquarius-Project/issues/2) ). Record from your phone or laptop (clear sound but doesn't need to be fancy) and [post your video link here](https://github.com/chrisbresky/Aquarius-Project/issues/4). 
 
+## Who are we?
+
 <a href="https://twitter.com/mrchrisbresky">
   <img
     src="https://pbs.twimg.com/profile_images/926779340909453313/3F9x5F4I_400x400.jpg"
