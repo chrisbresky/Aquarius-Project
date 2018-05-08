@@ -53,7 +53,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 #### Integrated with the national standards set by Next Generation Science Standards [NGSS](https://www.nextgenscience.org/get-to-know).
 
 
-## The Why  
+### The Why  
 
 Often students can view scientific exploration as something left to the professionals; premade science experiments in the classroom can often feel disconnected to the story of ongoing explorations. Using a strong, engaging narrative, coupled with hands-on applicable science, and real-time connection to professional scientists, young explorers can more easily find themselves the main characters in a story of discovery they are helping to write.
 
