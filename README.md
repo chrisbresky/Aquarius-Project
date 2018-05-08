@@ -38,7 +38,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
    * [Suggested assignments, guided learning strategies](https://www.discoverdesign.org/challenges/youth-authored-design-magnetic-underwater-meteorite-sled) 
    * [Interactive/hands-on samples](https://www.youtube.com/watch?v=IPvlK-0ybiw)
    * [Citizen Science Engagement portals for participating in the real science](https://zooniverse.org)
-   * Opportunities to engage with science professionals
+   * [Opportunities to engage with science professionals](https://drive.google.com/file/d/10N8DDRyECCNIAHksW9p2Rvxz-TnuCBHX/view?usp=sharing)
 
 
 <a href="https://bit.ly/aquariusproject">
