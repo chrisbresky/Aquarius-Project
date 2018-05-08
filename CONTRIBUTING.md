@@ -1,55 +1,54 @@
 
-# Contributing to [the Aquarius Project: Open Science Engagement]
+# Contributing to [the Aquarius Project: Open Science Engagement](https://github.com/chrisbresky/Aquarius-Project)
 
-Thank you for your interest in contributing to The Aquairus Project: Open Science Communication :tada:! 
+Thank you for your interest in contributing to The Aquarius Project: Open Science Communication!
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+***Inspiring students to engage in science through interactive stories of ongoing exploration***
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+<a href="https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project">
+  <img
+    src="https://www.adlerplanetarium.org/wp-content/uploads/aquarius-hero-01.png"
+    align="center"
+  img width="900" 
+       height="334" 
+ </img>
+</a>
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
-If your guide is long, consider adding a table of contents.
 
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
+### Why  
+
+Often students can view scientific exploration as something left to the professionals. Using a strong, engaging narrative, coupled with hands-on applicable science, and real-time connection to professional scientists, young explorers can more easily find themselves the main characters in a story of discovery they are helping to write.
+
+This documents is a set of guidelines for contributing to The Aquarius Project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](https://github.com/chrisbresky/Aquarius-Project/blob/master/CODE%20OF%20CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [cbreskyATadlerplanetarium.org].
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+* **We are using ongoing science stories to produce interactive hands-on lesson plans in STEM.**  We are using real science happening today to engage students not only with its relevance but with their ability to contribute, and incorporating that into content for studdents and educators to use.
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
+## How can you help?
 
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
-
-## How to submit changes
-
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
-
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+ ### 1. Be Curious. 
+ [Learn about the meteor fall that sparked this project](https://openexplorer.nationalgeographic.com/expedition/rovmeteoritehunt). 
  
-> 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-> 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-> 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
-
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
-
-## How to report bugs
-
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+   * **Ask a question** & post to Twitter w/ #AquariusAMA** that you'd like a scientist/educator to answer for you inspired by [the project](https://www.adlerplanetarium.org/education/far-horizons/the-aquarius-project/). (*Example:"How hot was the meteorite (space rock) when it hit the water?"* #AquariusAMA ) 
+     * **Science Professionals will be monitoring #AquariusAMA from 1-2pm CST (6-7pm UTC) on May 10th & 11th during the Global Sprint**
+   * **Post your question** and the response you receive! We'll use these to help design and direct new lesson content. [Post your questions and answers here!](https://github.com/chrisbresky/Aquarius-Project/issues/2) 
+ 
+ ### 2. Be a Translator. 
+ Help us translate the text from one of our digital lessons into another language. [Contribute here!](https://github.com/chrisbresky/Aquarius-Project/issues/1)
+ 
+ ### 3. Be a Resource Contributor.
+We invite scientists (and citizen scientists) of diverse backgrounds to contribute resources (online links, twitter/email for direct communication) that could help answer questions from #2 and, if you are willing provide your contact info to be a resource for future students/educators. [Post them here!](https://github.com/chrisbresky/Aquarius-Project/issues/3)
+ 
+ ### 4. Be a Storyteller. 
+If you are a science communicator, educator, scientist, or citizen scientist with a camera, record yourself answering a question from [Issue 2]((https://github.com/chrisbresky/Aquarius-Project/issues/2) ). Record from your phone or laptop (clear sound but doesn't need to be fancy) and [post your video link here](https://github.com/chrisbresky/Aquarius-Project/issues/4).
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+Email Chris - cbreskyATadlerplanetarium.org or on [twitter](https://twitter.com/mrchrisbresky).  Twitter conversations during the Global Sprint and beyond can be followed by searching #AquariusAMA 
