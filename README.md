@@ -13,7 +13,7 @@
 
 Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
-*This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more. And please review our [Code of Conduct](https://github.com/chrisbresky/Aquarius-Project/blob/master/CODE%20OF%20CONDUCT.md) to help this community play a part in making open science education welcoming for all. *
+*This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more. And please review our [Code of Conduct](https://github.com/chrisbresky/Aquarius-Project/blob/master/CODE%20OF%20CONDUCT.md) to help this community play a part in making open science engagement welcoming for all. *
 
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [How can you help?](#how-can-you-help)
