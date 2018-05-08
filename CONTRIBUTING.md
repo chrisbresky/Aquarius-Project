@@ -1,5 +1,5 @@
 
-# Contributing to the [Aquarius Project: Open Science Engagement Platform](https://github.com/chrisbresky/Aquarius-Project)
+# Contributing to the Aquarius Project: Open Science Engagement Platform
 
 Thank you for your interest in contributing to The Aquarius Project: Open Science Communication!
 
