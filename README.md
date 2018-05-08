@@ -78,7 +78,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
  Help us translate the text from one of our digital lessons into another language. [Contribute here!](https://github.com/chrisbresky/Aquarius-Project/issues/1)
  
  ### 3. Be a Resource Contributor.
-We invite scientists (and citizen scientists) of diverse backgrounds to contribute resources (online links, twitter/email for direct communication) that could help answer questions from #2 and help be a resource for future students/educators. [Post them here!](https://github.com/chrisbresky/Aquarius-Project/issues/3)
+We invite scientists (and citizen scientists) of diverse backgrounds to contribute resources (online links, twitter/email for direct communication) that could help answer questions from #2 and, if you are willing provide your contact info to be a resource for future students/educators. [Post them here!](https://github.com/chrisbresky/Aquarius-Project/issues/3)
  
  ### 4. Be a Storyteller. 
 If you are a science communicator, educator, scientist, or citizen scientist with a camera, record yourself answering a question from [Issue 2]((https://github.com/chrisbresky/Aquarius-Project/issues/2) ). Record from your phone or laptop (clear sound but doesn't need to be fancy) and [post your video link here](https://github.com/chrisbresky/Aquarius-Project/issues/4). 
