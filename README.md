@@ -63,7 +63,7 @@ Our mission is to address 3 major hurdles often faced in STEM education: 1) Scie
 
 2)    **Science seems unrelatable.** Unless you’re already planning on being a scientist, who cares about DNA, thermodynamics, or the water cycle? Or more accurately, “When am I ever going to need to know this?” These are tough questions to answer. So, we take a different approach to making the science relatable, we want to make it active, current, and all about the student. Paired videos and supplemental external links (scientist interaction, Instagram, websites, YouTube videos, etc) are aimed at showing a diversity of stereotype-breaking scientists across all ages, backgrounds, specialties, and personalities. 
 
-3)    **Developing [NGSS](https://www.nextgenscience.org/get-to-know) -based lesson plans.** The Next Generation Science Standards were established in 2013. Since then 19 states and the District of Columbia (D.C.) have adopted the standards with 21 states interested in following. This transition 
+3)    **Developing [NGSS](https://www.nextgenscience.org/get-to-know) -based lesson plans.** The Next Generation Science Standards were established in 2013. Since then 19 states and the District of Columbia (D.C.) have adopted the standards with 21 states interested in following.  
 
 ## How can you help?
 
