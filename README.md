@@ -27,7 +27,7 @@ Thank you for visiting the Aquarius Project: Open Science Engagement repository.
 
 ### The What  
 
-* **When a flaming rock from outer space crashed into Lake Michigan on February 6th, it created waves…literally!** This inspired us at the Adler Planetarium to ask how we could harness this event and use it to create accessible and engaging educational content. [(Click here to see what it’s inspired so far!)](http:://bit.ly/aquariusproject)
+* **When a flaming rock from outer space crashed into Lake Michigan on February 6th, it created waves…literally!** This inspired us at the Adler Planetarium to ask how we could harness this event and use it to create accessible and engaging educational content. [(Click here to see what it’s inspired so far!)](https://openexplorer.nationalgeographic.com/expedition/rovmeteoritehunt#post-6000176)
 
 ### The Aquarius Project: Open Science Engagement Platform
 
